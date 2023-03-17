@@ -1,6 +1,6 @@
 <template>
    <div class="errorpage">
-    <img  class="errorimage" src="@/assets/errorpage.png" alt="404" />
+    <img  class="errorimage"  alt="404" />
     <h1 class="errordisplay">404</h1>
     <h1 class="errortitle">
         Page not found

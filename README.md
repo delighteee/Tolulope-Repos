@@ -4,4 +4,4 @@ In this template, I created a new vue js application using the GitHub API, fetch
 
 
 View my project here:
-https://effulgent-panda-735082.netlify.app/
+https://tolulope-repos.netlify.app/

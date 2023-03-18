@@ -16,7 +16,7 @@ onMounted(() => {
 
 
 <template>
-  <WelcomeItem class="top">
+  <WelcomeItem>
     <div class="card" v-for="repo in filterRepos" v-bind:key="repo.id">
       <router-link :to="{ name: 'repo', params: { id: repo.id } }"
             >
@@ -53,9 +53,7 @@ onMounted(() => {
 
 <style>
 
-.top{
-  margin-top: 2em;
-}
+
 
 .pagination {
   display: flex;

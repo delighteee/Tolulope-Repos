@@ -37,7 +37,14 @@ h3 {
 .greetings h1,
 .greetings h3, .greetings p {
   text-align: center;
+  
 }
+
+
+.greetings h3{
+  margin-top: 1em;
+}
+
 
 @media (min-width: 1024px) {
   .greetings h1,

@@ -17,18 +17,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
 }
-@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
-
-
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
 
 h2 {
   margin: 0;
   padding: 4px 24px;
   color: linear-gradient(-45deg, #23a6d5, #23d5ab);
   font-size: 24px;
-  
 }
 
 h3 {
@@ -38,12 +35,11 @@ h3 {
   font-size: 16px;
 }
 
- p {
+p {
   margin: 0;
   padding: 8px 4px 0px 4px;
   color: var(--textColor);
   font-size: 16px;
-  
 }
 
 .main-section {
@@ -53,13 +49,11 @@ h3 {
   background: #0f0f0f;
   padding: 1em;
   border: 0.5px solid #364137;
-  margin-top: 1em;
+  margin: 1em;
   border-radius: 8px;
 }
 
-
-
-.title-card{
+.title-card {
   display: flex;
   align-items: left;
   justify-content: start;
@@ -81,7 +75,7 @@ h3 {
   color: #69686c;
 }
 
-button{
+button {
   background: var(--greenb);
   color: #fff;
   border: none;
@@ -95,7 +89,7 @@ button{
   background: #1d1d1d;
 }
 
-button:hover{
+button:hover {
   background: #047725;
 }
 </style>
